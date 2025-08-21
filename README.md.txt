@@ -1,4 +1,4 @@
-# 🚖 Sprint 8 – Análisis de Datos de Taxis en Chicago
+🚖  Análisis de Datos de Taxis en Chicago
 
 Este proyecto forma parte del curso de análisis de datos y tiene como objetivo explorar patrones en el transporte de taxis en Chicago durante noviembre de 2017. Incluye análisis exploratorio y pruebas de hipótesis con datos reales.
 
